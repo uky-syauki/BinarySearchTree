@@ -35,3 +35,5 @@ bst.isi(4)
 bst.isi(7)
 bst.isi(13)
 bst.printTree()
+
+// https://github.com/OmkarPathak/Data-Structures-using-Python/blob/master/Trees/BinarySearchTree.py
